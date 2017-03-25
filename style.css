@@ -1,0 +1,44 @@
+body {
+	background: green;
+}
+
+h1 {
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav {
+	font-family: 'Bangers', cursive;
+}
+
+nav ul li {
+	font-size: x-large;
+	margin-left: 100px;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+.MyTrees{
+	width: 50%;
+	font-family: 'Bangers', cursive;
+}
+
+.TreesNeed{
+	width: 50;
+	font-family: 'Bangers', cursive;
+}
+
+img {
+	width: 200px;
+}
+
+#treeImage {
+	border: solid 2px orange;
+	border-radius: 20%;
+	border-style: 
+}
